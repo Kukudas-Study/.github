@@ -32,7 +32,7 @@
 ## 커뮤니티
 <div display="flex" justify-content="center">
   <a href="https://www.acmicpc.net/">
-    <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150" border-radius="10px">
+    <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150" borderRadius="10px">
   </a>
   <a href="https://programmers.co.kr/">
     <img src="../imgs/pro.png" alt="프로그래머스 로고" width="150" height="150" border-radius="10px">
