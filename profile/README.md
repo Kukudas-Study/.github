@@ -30,27 +30,29 @@
 .
 
 ## 커뮤니티
-<div style="display='flex' justify-content='center'">
+<div style="display: flex; justify-content: center;">
   <a href="https://www.acmicpc.net/">
-    <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150" style="margin: 10px borderRadius= 10px">
+    <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
   </a>
   <a href="https://programmers.co.kr/">
-    <img src="../imgs/pro.png" alt="프로그래머스 로고" width="150" height="150" style="margin: 10px borderRadius= 10px">
+    <img src="../imgs/pro.png" alt="프로그래머스 로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
   </a>
   <a href="https://www.codetree.ai/">
-    <img src="../imgs/codetree.png" alt="코드트리로고" width="150" height="150" style="margin: 10px borderRadius= 10px">
-  </a>
-  <br>
-  <a href="https://softeer.ai/">
-    <img src="../imgs/softeer.png" alt="소프티어로고" width="150" height="150" style="margin: 10px borderRadius= 10px">
-  </a>
-  <a href="https://swexpertacademy.com/main/main.do">
-    <img src="../imgs/SWEA.png" alt="SWEA로고" width="150" height="150" style="margin: 10px borderRadius= 10px">
-  </a>
-  <a href="https://codeup.kr/">
-    <img src="../imgs/codeUp.png" alt="CodeUp로고" width="150" height="150" style="margin: 10px borderRadius= 10px">
+    <img src="../imgs/codetree.png" alt="코드트리로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
   </a>
 </div>
+<div style="display: flex; justify-content: center;">
+  <a href="https://softeer.ai/">
+    <img src="../imgs/softeer.png" alt="소프티어로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
+  </a>
+  <a href="https://swexpertacademy.com/main/main.do">
+    <img src="../imgs/SWEA.png" alt="SWEA로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
+  </a>
+  <a href="https://codeup.kr/">
+    <img src="../imgs/codeUp.png" alt="CodeUp로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
+  </a>
+</div>
+
 <!--
 
 **Here are some ideas to get you started:**
