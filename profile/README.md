@@ -32,18 +32,27 @@
 
 ## 커뮤니티
 
-<a href="https://programmers.co.kr/">
-  <img src="../imgs/pro.png" alt="백준로고" width="100" height="100">
+<a href="https://www.acmicpc.net/">
+  <img src="../imgs/baekjun.png" alt="백준로고" width="100" height="100">
 </a>
-[![백준](../imgs/baekjun.png)]()
+<a href="https://programmers.co.kr/">
+  <img src="../imgs/pro.png" alt="프로그래머스 로고" width="100" height="100">
+</a>
+<a href="https://www.codetree.ai/">
+  <img src="../imgs/codetree.png" alt="코드트리로고" width="100" height="100">
+</a>
+<a href="https://softeer.ai/">
+  <img src="../imgs/softeer.png" alt="소프티어로고" width="100" height="100">
+</a>
 
-[![프로그래머스](../imgs/pro.png)](https://programmers.co.kr/)
 
-[![코드트리](../imgs/codetree.png)](https://www.codetree.ai/)
+
+
+
 
 ![SWEA](https://swexpertacademy.com/main/main.do)
 
-[![Softeer](../imgs/softeer.png)](https://softeer.ai/)
+
 
 ![CodeUp](https://codeup.kr/)
 
