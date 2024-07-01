@@ -40,6 +40,7 @@
   <a href="https://www.codetree.ai/">
     <img src="../imgs/codetree.png" alt="코드트리로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
   </a>
+<br>
   <a href="https://softeer.ai/">
     <img src="../imgs/softeer.png" alt="소프티어로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
   </a>
