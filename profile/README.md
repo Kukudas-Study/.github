@@ -32,17 +32,17 @@
 
 ## 커뮤니티
 
-![백준](https://www.acmicpc.net/)
+[백준](https://www.acmicpc.net/)
 
-![프로그래머스](https://programmers.co.kr/)
+[프로그래머스](https://programmers.co.kr/)
 
-![코드트리](https://www.codetree.ai/)
+[코드트리](https://www.codetree.ai/)
 
-![SWEA](https://swexpertacademy.com/main/main.do)
+[SWEA](https://swexpertacademy.com/main/main.do)
 
-![Softeer](https://softeer.ai/)
+[Softeer](https://softeer.ai/)
 
-![CodeUp](https://codeup.kr/)
+[CodeUp](https://codeup.kr/)
 
 
 <!--
