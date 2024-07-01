@@ -29,7 +29,7 @@
 
 .
 
-## 커뮤니티
+## 플랫폼
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.acmicpc.net/">
     <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150" style="margin: 10px; border-radius: 10px;">
