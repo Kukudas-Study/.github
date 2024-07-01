@@ -5,12 +5,11 @@
 알고리즘 스터디 쿠크다스 입니다.
 현재 Java, Python으로 진행합니다. (언어는 상관없습니다.)
 
-
 ## 커리큘럼
 
-수학 -> 자료구조 -> 그리디 -> 재귀 -> DP -> 그래프(DFS/BFS) ->  
+수학 -> 자료구조 -> 그리디 -> 재귀 -> DP -> 그래프(DFS/BFS) ->
 
-완전탐색, 시뮬레이션, 구현, 문자열 -> 백트랙킹 -> 최단경로 -> 
+완전탐색, 시뮬레이션, 구현, 문자열 -> 백트랙킹 -> 최단경로 ->
 
 이분탐색 -> 분할정복 -> 투 포인터, 슬라이딩 윈도우
 
@@ -33,29 +32,24 @@
 ## 커뮤니티
 
 <a href="https://www.acmicpc.net/">
-  <img src="../imgs/baekjun.png" alt="백준로고" width="100" height="100">
+  <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150">
 </a>
 <a href="https://programmers.co.kr/">
-  <img src="../imgs/pro.png" alt="프로그래머스 로고" width="100" height="100">
+  <img src="../imgs/pro.png" alt="프로그래머스 로고" width="150" height="150">
 </a>
 <a href="https://www.codetree.ai/">
-  <img src="../imgs/codetree.png" alt="코드트리로고" width="100" height="100">
+  <img src="../imgs/codetree.png" alt="코드트리로고" width="150" height="150">
 </a>
+<br>
 <a href="https://softeer.ai/">
-  <img src="../imgs/softeer.png" alt="소프티어로고" width="100" height="100">
+  <img src="../imgs/softeer.png" alt="소프티어로고" width="150" height="150">
 </a>
-
-
-
-
-
-
-![SWEA](https://swexpertacademy.com/main/main.do)
-
-
-
-![CodeUp](https://codeup.kr/)
-
+<a href="https://swexpertacademy.com/main/main.do">
+  <img src="../imgs/SWEA.png" alt="SWEA로고" width="150" height="150">
+</a>
+<a href="https://codeup.kr/">
+  <img src="../imgs/codeUp.png" alt="CodeUp로고" width="150" height="150">
+</a>
 
 <!--
 
