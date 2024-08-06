@@ -81,35 +81,42 @@
       <tr>
         <td>week01 (06.26~07.03)</td>
         <td>- CodeUp 100제<br>- 자료구조, 수학</td>
+        <td>- CodeUp 100제<br>- 자료구조, 수학</td>
         <td>워밍업 주간</td>
       </tr>
       <tr>
         <td>week02 (07.04~07.10)</td>
+        <td>- 그리디, 재귀<br>- DP</td>
         <td>- 그리디, 재귀<br>- DP</td>
         <td>워밍업, 팀 분할</td>
       </tr>
       <tr>
         <td>week03 (07.11~07.17)</td>
         <td>- 그래프(DFS/BFS)<br>- 완전탐색</td>
+        <td>- 그래프(DFS/BFS)<br>- 완전탐색</td>
         <td>완탐연습(주)<br/>그래프 입문</td>
       </tr>
       <tr>
         <td>week04 (07.18~07.24)</td>
+        <td>- 그래프(DFS/BFS)</td>
         <td>- 그래프(DFS/BFS)</td>
         <td>그래프(주)</td>
       </tr>
       <tr>
         <td>week05 (07.25~07.31)</td>
         <td>- 백트래킹</td>
+        <td>- 백트래킹</td>
         <td>백트래킹(입문)</td>
       </tr>
       <tr>
         <td>week06 (08.01~08.07)</td>
         <td>- 백트래킹</td>
+        <td>- 백트래킹</td>
         <td></td>
       </tr>
       <tr>
         <td>week07 (08.08~08.14)</td>
+        <td>- 미정</td>
         <td>- 미정</td>
         <td></td>
       </tr>
