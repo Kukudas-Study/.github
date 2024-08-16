@@ -122,6 +122,12 @@
         <td>- 완전탐색,  그래프</td>
         <td></td>
       </tr>
+      <tr>
+        <td>week08 (08.15~08.21)</td>
+        <td>- 구현 </td>
+        <td>- 구현 </td>
+        <td></td>
+      </tr>
     </tbody>
   </table>
 </section>
