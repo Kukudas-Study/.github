@@ -154,7 +154,7 @@
 </section>
 
 <section>
-  <h2>🌐 플랫폼</h2>
+  <h2>🌐 플랫폼 </h2>
   <div class="platforms">
     <a href="https://www.acmicpc.net/">
       <img src="../imgs/baekjun.png" alt="백준로고" width="150" height="150">
